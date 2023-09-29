@@ -1,0 +1,561 @@
+Year,Month Number,Month,Utility,Owner,Units,Usage
+1/1/2013,1,Jan,Passengers,Campus,PAX,3209356
+1/1/2013,1,Jan,Gas,Commission,Therms,363205
+1/1/2013,1,Jan,Gas,Tenant,Therms,49393
+1/1/2013,1,Jan,Electricity,Commission,kWh,12904353
+1/1/2013,1,Jan,Electricity,Tenant,kWh,14002156
+1/1/2013,1,Jan,Water,Commission,Million Gallons,15.202352
+1/1/2013,1,Jan,Water,Tenant,Million Gallons,15.834412
+1/1/2013,2,Feb,Passengers,Campus,PAX,2968951
+1/1/2013,2,Feb,Gas,Commission,Therms,317493
+1/1/2013,2,Feb,Gas,Tenant,Therms,50573
+1/1/2013,2,Feb,Electricity,Commission,kWh,11816401
+1/1/2013,2,Feb,Electricity,Tenant,kWh,12631776
+1/1/2013,2,Feb,Water,Commission,Million Gallons,14.1185
+1/1/2013,2,Feb,Water,Tenant,Million Gallons,14.716152
+1/1/2013,3,Mar,Passengers,Campus,PAX,3599968
+1/1/2013,3,Mar,Gas,Commission,Therms,318680
+1/1/2013,3,Mar,Gas,Tenant,Therms,44698
+1/1/2013,3,Mar,Electricity,Commission,kWh,13769470
+1/1/2013,3,Mar,Electricity,Tenant,kWh,13894596
+1/1/2013,3,Mar,Water,Commission,Million Gallons,13.287472
+1/1/2013,3,Mar,Water,Tenant,Million Gallons,15.550172
+1/1/2013,4,Apr,Passengers,Campus,PAX,3609543
+1/1/2013,4,Apr,Gas,Commission,Therms,270776.3624
+1/1/2013,4,Apr,Gas,Tenant,Therms,43064.10784
+1/1/2013,4,Apr,Electricity,Commission,kWh,13477167
+1/1/2013,4,Apr,Electricity,Tenant,kWh,13548377
+1/1/2013,4,Apr,Water,Commission,Million Gallons,15.80524
+1/1/2013,4,Apr,Water,Tenant,Million Gallons,16.497888
+1/1/2013,5,May,Passengers,Campus,PAX,3934899
+1/1/2013,5,May,Gas,Commission,Therms,261633.5766
+1/1/2013,5,May,Gas,Tenant,Therms,46866.52864
+1/1/2013,5,May,Electricity,Commission,kWh,14525147
+1/1/2013,5,May,Electricity,Tenant,kWh,13646478
+1/1/2013,5,May,Water,Commission,Million Gallons,16.304904
+1/1/2013,5,May,Water,Tenant,Million Gallons,15.809728
+1/1/2013,6,Jun,Passengers,Campus,PAX,4155153
+1/1/2013,6,Jun,Gas,Commission,Therms,225357.6126
+1/1/2013,6,Jun,Gas,Tenant,Therms,43407.37054
+1/1/2013,6,Jun,Electricity,Commission,kWh,13983776
+1/1/2013,6,Jun,Electricity,Tenant,kWh,13648306
+1/1/2013,6,Jun,Water,Commission,Million Gallons,18.87204
+1/1/2013,6,Jun,Water,Tenant,Million Gallons,15.658632
+1/1/2013,7,Jul,Passengers,Campus,PAX,4181115
+1/1/2013,7,Jul,Gas,Commission,Therms,238209.25
+1/1/2013,7,Jul,Gas,Tenant,Therms,41382.62
+1/1/2013,7,Jul,Electricity,Commission,kWh,14510484.74
+1/1/2013,7,Jul,Electricity,Tenant,kWh,14213208.26
+1/1/2013,7,Jul,Water,Commission,Million Gallons,15.85386
+1/1/2013,7,Jul,Water,Tenant,Million Gallons,15.856852
+1/1/2013,8,Aug,Passengers,Campus,PAX,4351101
+1/1/2013,8,Aug,Gas,Commission,Therms,231452.008
+1/1/2013,8,Aug,Gas,Tenant,Therms,38495.65014
+1/1/2013,8,Aug,Electricity,Commission,kWh,15376577
+1/1/2013,8,Aug,Electricity,Tenant,kWh,13806793
+1/1/2013,8,Aug,Water,Commission,Million Gallons,20.437604
+1/1/2013,8,Aug,Water,Tenant,Million Gallons,16.991568
+1/1/2013,9,Sep,Passengers,Campus,PAX,3785479
+1/1/2013,9,Sep,Gas,Commission,Therms,198542.88
+1/1/2013,9,Sep,Gas,Tenant,Therms,43981.96851
+1/1/2013,9,Sep,Electricity,Commission,kWh,14474661
+1/1/2013,9,Sep,Electricity,Tenant,kWh,13683284
+1/1/2013,9,Sep,Water,Commission,Million Gallons,20.917072
+1/1/2013,9,Sep,Water,Tenant,Million Gallons,16.959404
+1/1/2013,10,Oct,Passengers,Campus,PAX,3926441
+1/1/2013,10,Oct,Gas,Commission,Therms,264782
+1/1/2013,10,Oct,Gas,Tenant,Therms,44849
+1/1/2013,10,Oct,Electricity,Commission,kWh,14438314
+1/1/2013,10,Oct,Electricity,Tenant,kWh,13933761
+1/1/2013,10,Oct,Water,Commission,Million Gallons,15.912952
+1/1/2013,10,Oct,Water,Tenant,Million Gallons,16.313132
+1/1/2013,11,Nov,Passengers,Campus,PAX,3470482
+1/1/2013,11,Nov,Gas,Commission,Therms,301372.3341
+1/1/2013,11,Nov,Gas,Tenant,Therms,51129.43924
+1/1/2013,11,Nov,Electricity,Commission,kWh,13632489
+1/1/2013,11,Nov,Electricity,Tenant,kWh,13301140
+1/1/2013,11,Nov,Water,Commission,Million Gallons,15.526984
+1/1/2013,11,Nov,Water,Tenant,Million Gallons,15.72296
+1/1/2013,12,Dec,Passengers,Campus,PAX,3814276
+1/1/2013,12,Dec,Gas,Commission,Therms,351762.273
+1/1/2013,12,Dec,Gas,Tenant,Therms,46275.11766
+1/1/2013,12,Dec,Electricity,Commission,kWh,13874497
+1/1/2013,12,Dec,Electricity,Tenant,kWh,13191552
+1/1/2013,12,Dec,Water,Commission,Million Gallons,17.501704
+1/1/2013,12,Dec,Water,Tenant,Million Gallons,15.280892
+1/1/2014,1,Jan,Passengers,Campus,PAX,3438136
+1/1/2014,1,Jan,Gas,Commission,Therms,297320.9756
+1/1/2014,1,Jan,Gas,Tenant,Therms,45507.67193
+1/1/2014,1,Jan,Electricity,Commission,kWh,14224438
+1/1/2014,1,Jan,Electricity,Tenant,kWh,13449294
+1/1/2014,1,Jan,Water,Commission,Million Gallons,16.532296
+1/1/2014,1,Jan,Water,Tenant,Million Gallons,18.936368
+1/1/2014,2,Feb,Passengers,Campus,PAX,3081846
+1/1/2014,2,Feb,Gas,Commission,Therms,273935.1539
+1/1/2014,2,Feb,Gas,Tenant,Therms,43723.27849
+1/1/2014,2,Feb,Electricity,Commission,kWh,11307151
+1/1/2014,2,Feb,Electricity,Tenant,kWh,13449294
+1/1/2014,2,Feb,Water,Commission,Million Gallons,12.404832
+1/1/2014,2,Feb,Water,Tenant,Million Gallons,17.800156
+1/1/2014,3,Mar,Passengers,Campus,PAX,3771574
+1/1/2014,3,Mar,Gas,Commission,Therms,263329
+1/1/2014,3,Mar,Gas,Tenant,Therms,41871
+1/1/2014,3,Mar,Electricity,Commission,kWh,14217248
+1/1/2014,3,Mar,Electricity,Tenant,kWh,13449294
+1/1/2014,3,Mar,Water,Commission,Million Gallons,14.602456
+1/1/2014,3,Mar,Water,Tenant,Million Gallons,18.099356
+1/1/2014,4,Apr,Passengers,Campus,PAX,3887382
+1/1/2014,4,Apr,Gas,Commission,Therms,250218
+1/1/2014,4,Apr,Gas,Tenant,Therms,39428
+1/1/2014,4,Apr,Electricity,Commission,kWh,13156039
+1/1/2014,4,Apr,Electricity,Tenant,kWh,13449294
+1/1/2014,4,Apr,Water,Commission,Million Gallons,16.144832
+1/1/2014,4,Apr,Water,Tenant,Million Gallons,17.83606
+1/1/2014,5,May,Passengers,Campus,PAX,4151403
+1/1/2014,5,May,Gas,Commission,Therms,230486.8113
+1/1/2014,5,May,Gas,Tenant,Therms,40850.83315
+1/1/2014,5,May,Electricity,Commission,kWh,14526902
+1/1/2014,5,May,Electricity,Tenant,kWh,13297563
+1/1/2014,5,May,Water,Commission,Million Gallons,22.101904
+1/1/2014,5,May,Water,Tenant,Million Gallons,17.497216
+1/1/2014,6,Jun,Passengers,Campus,PAX,4327219
+1/1/2014,6,Jun,Gas,Commission,Therms,212301.5408
+1/1/2014,6,Jun,Gas,Tenant,Therms,38261.15375
+1/1/2014,6,Jun,Electricity,Commission,kWh,13735745
+1/1/2014,6,Jun,Electricity,Tenant,kWh,13297563
+1/1/2014,6,Jun,Water,Commission,Million Gallons,24.071388
+1/1/2014,6,Jun,Water,Tenant,Million Gallons,17.186048
+1/1/2014,7,Jul,Passengers,Campus,PAX,4506218
+1/1/2014,7,Jul,Gas,Commission,Therms,190657.9062
+1/1/2014,7,Jul,Gas,Tenant,Therms,41604.81861
+1/1/2014,7,Jul,Electricity,Commission,kWh,14871822
+1/1/2014,7,Jul,Electricity,Tenant,kWh,13704396
+1/1/2014,7,Jul,Water,Commission,Million Gallons,24.289056
+1/1/2014,7,Jul,Water,Tenant,Million Gallons,16.891336
+1/1/2014,8,Aug,Passengers,Campus,PAX,4525926
+1/1/2014,8,Aug,Gas,Commission,Therms,193837.5286
+1/1/2014,8,Aug,Gas,Tenant,Therms,36460.46962
+1/1/2014,8,Aug,Electricity,Commission,kWh,14809519
+1/1/2014,8,Aug,Electricity,Tenant,kWh,13953716
+1/1/2014,8,Aug,Water,Commission,Million Gallons,19.047072
+1/1/2014,8,Aug,Water,Tenant,Million Gallons,16.166524
+1/1/2014,9,Sep,Passengers,Campus,PAX,3919485
+1/1/2014,9,Sep,Gas,Commission,Therms,179861.3953
+1/1/2014,9,Sep,Gas,Tenant,Therms,37393.71399
+1/1/2014,9,Sep,Electricity,Commission,kWh,14836903
+1/1/2014,9,Sep,Electricity,Tenant,kWh,13286868
+1/1/2014,9,Sep,Water,Commission,Million Gallons,17.750788
+1/1/2014,9,Sep,Water,Tenant,Million Gallons,17.628864
+1/1/2014,10,Oct,Passengers,Campus,PAX,4059884
+1/1/2014,10,Oct,Gas,Commission,Therms,194682.0458
+1/1/2014,10,Oct,Gas,Tenant,Therms,43093.57328
+1/1/2014,10,Oct,Electricity,Commission,kWh,15358398
+1/1/2014,10,Oct,Electricity,Tenant,kWh,13644163
+1/1/2014,10,Oct,Water,Commission,Million Gallons,19.53776
+1/1/2014,10,Oct,Water,Tenant,Million Gallons,17.765748
+1/1/2014,11,Nov,Passengers,Campus,PAX,3629099
+1/1/2014,11,Nov,Gas,Commission,Therms,236044
+1/1/2014,11,Nov,Gas,Tenant,Therms,41633
+1/1/2014,11,Nov,Electricity,Commission,kWh,13827951
+1/1/2014,11,Nov,Electricity,Tenant,kWh,13054147
+1/1/2014,11,Nov,Water,Commission,Million Gallons,14.465572
+1/1/2014,11,Nov,Water,Tenant,Million Gallons,15.509032
+1/1/2014,12,Dec,Passengers,Campus,PAX,3856908
+1/1/2014,12,Dec,Gas,Commission,Therms,282638.9296
+1/1/2014,12,Dec,Gas,Tenant,Therms,40781.36044
+1/1/2014,12,Dec,Electricity,Commission,kWh,14312434
+1/1/2014,12,Dec,Electricity,Tenant,kWh,13056854
+1/1/2014,12,Dec,Water,Commission,Million Gallons,13.698872
+1/1/2014,12,Dec,Water,Tenant,Million Gallons,14.975708
+1/1/2015,1,Jan,Passengers,Campus,PAX,3551072
+1/1/2015,1,Jan,Gas,Commission,Therms,289927.5289
+1/1/2015,1,Jan,Gas,Tenant,Therms,43822.67201
+1/1/2015,1,Jan,Electricity,Commission,kWh,13621017
+1/1/2015,1,Jan,Electricity,Tenant,kWh,13056854
+1/1/2015,1,Jan,Water,Commission,Million Gallons,13.926264
+1/1/2015,1,Jan,Water,Tenant,Million Gallons,15.190384
+1/1/2015,2,Feb,Passengers,Campus,PAX,3248534
+1/1/2015,2,Feb,Gas,Commission,Therms,245071.962
+1/1/2015,2,Feb,Gas,Tenant,Therms,39983.97431
+1/1/2015,2,Feb,Electricity,Commission,kWh,11458825
+1/1/2015,2,Feb,Electricity,Tenant,kWh,13056854
+1/1/2015,2,Feb,Water,Commission,Million Gallons,12.110868
+1/1/2015,2,Feb,Water,Tenant,Million Gallons,14.378804
+1/1/2015,3,Mar,Passengers,Campus,PAX,4002732
+1/1/2015,3,Mar,Gas,Commission,Therms,251849
+1/1/2015,3,Mar,Gas,Tenant,Therms,42398
+1/1/2015,3,Mar,Electricity,Commission,kWh,14206768
+1/1/2015,3,Mar,Electricity,Tenant,kWh,13056854
+1/1/2015,3,Mar,Water,Commission,Million Gallons,14.464076
+1/1/2015,3,Mar,Water,Tenant,Million Gallons,16.120896
+1/1/2015,4,Apr,Passengers,Campus,PAX,4022770
+1/1/2015,4,Apr,Gas,Commission,Therms,283072
+1/1/2015,4,Apr,Gas,Tenant,Therms,43856
+1/1/2015,4,Apr,Electricity,Commission,kWh,13206035
+1/1/2015,4,Apr,Electricity,Tenant,kWh,12950955
+1/1/2015,4,Apr,Water,Commission,Million Gallons,14.571788
+1/1/2015,4,Apr,Water,Tenant,Million Gallons,14.629384
+1/1/2015,5,May,Passengers,Campus,PAX,4361622
+1/1/2015,5,May,Gas,Commission,Therms,293712.4703
+1/1/2015,5,May,Gas,Tenant,Therms,36970.58822
+1/1/2015,5,May,Electricity,Commission,kWh,13843250
+1/1/2015,5,May,Electricity,Tenant,kWh,13452023
+1/1/2015,5,May,Water,Commission,Million Gallons,14.692216
+1/1/2015,5,May,Water,Tenant,Million Gallons,13.687652
+1/1/2015,6,Jun,Passengers,Campus,PAX,4559640
+1/1/2015,6,Jun,Gas,Commission,Therms,273489.1631
+1/1/2015,6,Jun,Gas,Tenant,Therms,37414.90796
+1/1/2015,6,Jun,Electricity,Commission,kWh,13996653
+1/1/2015,6,Jun,Electricity,Tenant,kWh,13278801
+1/1/2015,6,Jun,Water,Commission,Million Gallons,17.317696
+1/1/2015,6,Jun,Water,Tenant,Million Gallons,14.955512
+1/1/2015,7,Jul,Passengers,Campus,PAX,4802431
+1/1/2015,7,Jul,Gas,Commission,Therms,204610.7627
+1/1/2015,7,Jul,Gas,Tenant,Therms,36651.39887
+1/1/2015,7,Jul,Electricity,Commission,kWh,15584561
+1/1/2015,7,Jul,Electricity,Tenant,kWh,13769637
+1/1/2015,7,Jul,Water,Commission,Million Gallons,19.306628
+1/1/2015,7,Jul,Water,Tenant,Million Gallons,14.553836
+1/1/2015,8,Aug,Passengers,Campus,PAX,4797484
+1/1/2015,8,Aug,Gas,Commission,Therms,181978.5635
+1/1/2015,8,Aug,Gas,Tenant,Therms,35252.87076
+1/1/2015,8,Aug,Electricity,Commission,kWh,15256051
+1/1/2015,8,Aug,Electricity,Tenant,kWh,14248996
+1/1/2015,8,Aug,Water,Commission,Million Gallons,18.432964
+1/1/2015,8,Aug,Water,Tenant,Million Gallons,14.191804
+1/1/2015,9,Sep,Passengers,Campus,PAX,4201882
+1/1/2015,9,Sep,Gas,Commission,Therms,191157.1776
+1/1/2015,9,Sep,Gas,Tenant,Therms,34456.883
+1/1/2015,9,Sep,Electricity,Commission,kWh,15796725
+1/1/2015,9,Sep,Electricity,Tenant,kWh,12606205
+1/1/2015,9,Sep,Water,Commission,Million Gallons,19.643228
+1/1/2015,9,Sep,Water,Tenant,Million Gallons,14.15964
+1/1/2015,10,Oct,Passengers,Campus,PAX,4375077
+1/1/2015,10,Oct,Gas,Commission,Therms,221764.383
+1/1/2015,10,Oct,Gas,Tenant,Therms,36071.5513
+1/1/2015,10,Oct,Electricity,Commission,kWh,16421214
+1/1/2015,10,Oct,Electricity,Tenant,kWh,12993519
+1/1/2015,10,Oct,Water,Commission,Million Gallons,17.590716
+1/1/2015,10,Oct,Water,Tenant,Million Gallons,18.06794
+1/1/2015,11,Nov,Passengers,Campus,PAX,4014388
+1/1/2015,11,Nov,Gas,Commission,Therms,274271.1403
+1/1/2015,11,Nov,Gas,Tenant,Therms,38648.45837
+1/1/2015,11,Nov,Electricity,Commission,kWh,12641431
+1/1/2015,11,Nov,Electricity,Tenant,kWh,13593928
+1/1/2015,11,Nov,Water,Commission,Million Gallons,13.832764
+1/1/2015,11,Nov,Water,Tenant,Million Gallons,12.366684
+1/1/2015,12,Dec,Passengers,Campus,PAX,4129462
+1/1/2015,12,Dec,Gas,Commission,Therms,324018.239
+1/1/2015,12,Dec,Gas,Tenant,Therms,45756.84319
+1/1/2015,12,Dec,Electricity,Commission,kWh,13697268
+1/1/2015,12,Dec,Electricity,Tenant,kWh,13194147
+1/1/2015,12,Dec,Water,Commission,Million Gallons,14.627888
+1/1/2015,12,Dec,Water,Tenant,Million Gallons,13.119172
+1/1/2016,1,Jan,Passengers,Campus,PAX,3749417
+1/1/2016,1,Jan,Gas,Commission,Therms,334535.0865
+1/1/2016,1,Jan,Gas,Tenant,Therms,38677.57819
+1/1/2016,1,Jan,Electricity,Commission,kWh,13613693
+1/1/2016,1,Jan,Electricity,Tenant,kWh,13595401
+1/1/2016,1,Jan,Water,Commission,Million Gallons,12.683088
+1/1/2016,1,Jan,Water,Tenant,Million Gallons,10.907336
+1/1/2016,2,Feb,Passengers,Campus,PAX,3543751
+1/1/2016,2,Feb,Gas,Commission,Therms,278739.8833
+1/1/2016,2,Feb,Gas,Tenant,Therms,36600.18297
+1/1/2016,2,Feb,Electricity,Commission,kWh,13207312
+1/1/2016,2,Feb,Electricity,Tenant,kWh,12787092
+1/1/2016,2,Feb,Water,Commission,Million Gallons,14.136452
+1/1/2016,2,Feb,Water,Tenant,Million Gallons,12.942644
+1/1/2016,3,Mar,Passengers,Campus,PAX,4138030
+1/1/2016,3,Mar,Gas,Commission,Therms,302528.5623
+1/1/2016,3,Mar,Gas,Tenant,Therms,40479.58694
+1/1/2016,3,Mar,Electricity,Commission,kWh,14846883
+1/1/2016,3,Mar,Electricity,Tenant,kWh,12787092
+1/1/2016,3,Mar,Water,Commission,Million Gallons,14.258376
+1/1/2016,3,Mar,Water,Tenant,Million Gallons,12.62624
+1/1/2016,4,Apr,Passengers,Campus,PAX,4172707
+1/1/2016,4,Apr,Gas,Commission,Therms,269682.4365
+1/1/2016,4,Apr,Gas,Tenant,Therms,38609.72866
+1/1/2016,4,Apr,Electricity,Commission,kWh,13512898.4
+1/1/2016,4,Apr,Electricity,Tenant,kWh,13319650
+1/1/2016,4,Apr,Water,Commission,Million Gallons,18.029044
+1/1/2016,4,Apr,Water,Tenant,Million Gallons,12.325544
+1/1/2016,5,May,Passengers,Campus,PAX,4574399
+1/1/2016,5,May,Gas,Commission,Therms,266822.5971
+1/1/2016,5,May,Gas,Tenant,Therms,33488.48546
+1/1/2016,5,May,Electricity,Commission,kWh,14555165.9
+1/1/2016,5,May,Electricity,Tenant,kWh,13076243
+1/1/2016,5,May,Water,Commission,Million Gallons,17.530128
+1/1/2016,5,May,Water,Tenant,Million Gallons,13.339832
+1/1/2016,6,Jun,Passengers,Campus,PAX,4922320
+1/1/2016,6,Jun,Gas,Commission,Therms,229738.4431
+1/1/2016,6,Jun,Gas,Tenant,Therms,34665.57083
+1/1/2016,6,Jun,Electricity,Commission,kWh,14114695.3
+1/1/2016,6,Jun,Electricity,Tenant,kWh,12995885
+1/1/2016,6,Jun,Water,Commission,Million Gallons,19.90054
+1/1/2016,6,Jun,Water,Tenant,Million Gallons,13.754972
+1/1/2016,7,Jul,Passengers,Campus,PAX,5169044
+1/1/2016,7,Jul,Gas,Commission,Therms,242340.6551
+1/1/2016,7,Jul,Gas,Tenant,Therms,37594.95224
+1/1/2016,7,Jul,Electricity,Commission,kWh,14064108
+1/1/2016,7,Jul,Electricity,Tenant,kWh,13801536
+1/1/2016,7,Jul,Water,Commission,Million Gallons,19.456976
+1/1/2016,7,Jul,Water,Tenant,Million Gallons,12.766116
+1/1/2016,8,Aug,Passengers,Campus,PAX,5112250
+1/1/2016,8,Aug,Gas,Commission,Therms,239704.1175
+1/1/2016,8,Aug,Gas,Tenant,Therms,48885.82507
+1/1/2016,8,Aug,Electricity,Commission,kWh,14784511
+1/1/2016,8,Aug,Electricity,Tenant,kWh,13516803
+1/1/2016,8,Aug,Water,Commission,Million Gallons,20.767472
+1/1/2016,8,Aug,Water,Tenant,Million Gallons,14.3242
+1/1/2016,9,Sep,Passengers,Campus,PAX,4544856
+1/1/2016,9,Sep,Gas,Commission,Therms,233196.178
+1/1/2016,9,Sep,Gas,Tenant,Therms,41347.45001
+1/1/2016,9,Sep,Electricity,Commission,kWh,14028224
+1/1/2016,9,Sep,Electricity,Tenant,kWh,13453569
+1/1/2016,9,Sep,Water,Commission,Million Gallons,19.370956
+1/1/2016,9,Sep,Water,Tenant,Million Gallons,12.142284
+1/1/2016,10,Oct,Passengers,Campus,PAX,4572106
+1/1/2016,10,Oct,Gas,Commission,Therms,240668.4102
+1/1/2016,10,Oct,Gas,Tenant,Therms,35182.81597
+1/1/2016,10,Oct,Electricity,Commission,kWh,14588262
+1/1/2016,10,Oct,Electricity,Tenant,kWh,13503024
+1/1/2016,10,Oct,Water,Commission,Million Gallons,17.8585
+1/1/2016,10,Oct,Water,Tenant,Million Gallons,12.993508
+1/1/2016,11,Nov,Passengers,Campus,PAX,4267820
+1/1/2016,11,Nov,Gas,Commission,Therms,262707
+1/1/2016,11,Nov,Gas,Tenant,Therms,40376
+1/1/2016,11,Nov,Electricity,Commission,kWh,13491817.1
+1/1/2016,11,Nov,Electricity,Tenant,kWh,13277738
+1/1/2016,11,Nov,Water,Commission,Million Gallons,17.877948
+1/1/2016,11,Nov,Water,Tenant,Million Gallons,11.92312
+1/1/2016,12,Dec,Passengers,Campus,PAX,4339805
+1/1/2016,12,Dec,Gas,Commission,Therms,343821.1041
+1/1/2016,12,Dec,Gas,Tenant,Therms,46751.23673
+1/1/2016,12,Dec,Electricity,Commission,kWh,13737469.7
+1/1/2016,12,Dec,Electricity,Tenant,kWh,12800970
+1/1/2016,12,Dec,Water,Commission,Million Gallons,16.042356
+1/1/2016,12,Dec,Water,Tenant,Million Gallons,11.610456
+1/1/2017,1,Jan,Passengers,Campus,PAX,3893455
+1/1/2017,1,Jan,Gas,Commission,Therms,351132.1957
+1/1/2017,1,Jan,Gas,Tenant,Therms,50379.81933
+1/1/2017,1,Jan,Electricity,Commission,kWh,13192246.5
+1/1/2017,1,Jan,Electricity,Tenant,kWh,12800970
+1/1/2017,1,Jan,Water,Commission,Million Gallons,16.301912
+1/1/2017,1,Jan,Water,Tenant,Million Gallons,12.68982
+1/1/2017,2,Feb,Passengers,Campus,PAX,3481480
+1/1/2017,2,Feb,Gas,Commission,Therms,280648.4955
+1/1/2017,2,Feb,Gas,Tenant,Therms,41770.77043
+1/1/2017,2,Feb,Electricity,Commission,kWh,11824927.3
+1/1/2017,2,Feb,Electricity,Tenant,kWh,11753056
+1/1/2017,2,Feb,Water,Commission,Million Gallons,17.318444
+1/1/2017,2,Feb,Water,Tenant,Million Gallons,11.176616
+1/1/2017,3,Mar,Passengers,Campus,PAX,4335634
+1/1/2017,3,Mar,Gas,Commission,Therms,289358.255
+1/1/2017,3,Mar,Gas,Tenant,Therms,33821.90605
+1/1/2017,3,Mar,Electricity,Commission,kWh,13957401.4
+1/1/2017,3,Mar,Electricity,Tenant,kWh,12275640
+1/1/2017,3,Mar,Water,Commission,Million Gallons,19.92298
+1/1/2017,3,Mar,Water,Tenant,Million Gallons,12.760132
+1/1/2017,4,Apr,Passengers,Campus,PAX,4426358
+1/1/2017,4,Apr,Gas,Commission,Therms,264785.6717
+1/1/2017,4,Apr,Gas,Tenant,Therms,20870.2762
+1/1/2017,4,Apr,Electricity,Commission,kWh,12854721
+1/1/2017,4,Apr,Electricity,Tenant,kWh,12572789
+1/1/2017,4,Apr,Water,Commission,Million Gallons,16.714808
+1/1/2017,4,Apr,Water,Tenant,Million Gallons,11.809424
+1/1/2017,5,May,Passengers,Campus,PAX,4699822
+1/1/2017,5,May,Gas,Commission,Therms,261076.0458
+1/1/2017,5,May,Gas,Tenant,Therms,51750.59008
+1/1/2017,5,May,Electricity,Commission,kWh,13895196.3
+1/1/2017,5,May,Electricity,Tenant,kWh,12626272.8
+1/1/2017,5,May,Water,Commission,Million Gallons,20.593936
+1/1/2017,5,May,Water,Tenant,Million Gallons,14.196292
+1/1/2017,6,Jun,Passengers,Campus,PAX,5134738
+1/1/2017,6,Jun,Gas,Commission,Therms,232466.001
+1/1/2017,6,Jun,Gas,Tenant,Therms,44242.41206
+1/1/2017,6,Jun,Electricity,Commission,kWh,13412351.7
+1/1/2017,6,Jun,Electricity,Tenant,kWh,12643076.8
+1/1/2017,6,Jun,Water,Commission,Million Gallons,22.804276
+1/1/2017,6,Jun,Water,Tenant,Million Gallons,13.474472
+1/1/2017,7,Jul,Passengers,Campus,PAX,5497819
+1/1/2017,7,Jul,Gas,Commission,Therms,233447.9251
+1/1/2017,7,Jul,Gas,Tenant,Therms,37465.81028
+1/1/2017,7,Jul,Electricity,Commission,kWh,14417693
+1/1/2017,7,Jul,Electricity,Tenant,kWh,12583613.8
+1/1/2017,7,Jul,Water,Commission,Million Gallons,26.629548
+1/1/2017,7,Jul,Water,Tenant,Million Gallons,14.109524
+1/1/2017,8,Aug,Passengers,Campus,PAX,5518744
+1/1/2017,8,Aug,Gas,Commission,Therms,208672.75
+1/1/2017,8,Aug,Gas,Tenant,Therms,37029.88932
+1/1/2017,8,Aug,Electricity,Commission,kWh,15380441.3
+1/1/2017,8,Aug,Electricity,Tenant,kWh,12535251.8
+1/1/2017,8,Aug,Water,Commission,Million Gallons,26.30342
+1/1/2017,8,Aug,Water,Tenant,Million Gallons,13.788632
+1/1/2017,9,Sep,Passengers,Campus,PAX,4736759
+1/1/2017,9,Sep,Gas,Commission,Therms,166549.753
+1/1/2017,9,Sep,Gas,Tenant,Therms,37944.60606
+1/1/2017,9,Sep,Electricity,Commission,kWh,15512366.5
+1/1/2017,9,Sep,Electricity,Tenant,kWh,12252318
+1/1/2017,9,Sep,Water,Commission,Million Gallons,24.473064
+1/1/2017,9,Sep,Water,Tenant,Million Gallons,13.212672
+1/1/2017,10,Oct,Passengers,Campus,PAX,4869130
+1/1/2017,10,Oct,Gas,Commission,Therms,215626.8261
+1/1/2017,10,Oct,Gas,Tenant,Therms,43514.50574
+1/1/2017,10,Oct,Electricity,Commission,kWh,14399436.6
+1/1/2017,10,Oct,Electricity,Tenant,kWh,13067400
+1/1/2017,10,Oct,Water,Commission,Million Gallons,22.661408
+1/1/2017,10,Oct,Water,Tenant,Million Gallons,14.0063
+1/1/2017,11,Nov,Passengers,Campus,PAX,4573457
+1/1/2017,11,Nov,Gas,Commission,Therms,324060.4858
+1/1/2017,11,Nov,Gas,Tenant,Therms,59760.49887
+1/1/2017,11,Nov,Electricity,Commission,kWh,13558539.6
+1/1/2017,11,Nov,Electricity,Tenant,kWh,12097819
+1/1/2017,11,Nov,Water,Commission,Million Gallons,22.060764
+1/1/2017,11,Nov,Water,Tenant,Million Gallons,13.461008
+1/1/2017,12,Dec,Passengers,Campus,PAX,4660693
+1/1/2017,12,Dec,Gas,Commission,Therms,258437.4728
+1/1/2017,12,Dec,Gas,Tenant,Therms,82156.38063
+1/1/2017,12,Dec,Electricity,Commission,kWh,13452456
+1/1/2017,12,Dec,Electricity,Tenant,kWh,12575671
+1/1/2017,12,Dec,Water,Commission,Million Gallons,16.87862
+1/1/2017,12,Dec,Water,Tenant,Million Gallons,11.942568
+1/1/2018,1,Jan,Passengers,Campus,PAX,4191545
+1/1/2018,1,Jan,Gas,Commission,Therms,273991.5096
+1/1/2018,1,Jan,Gas,Tenant,Therms,57669.90155
+1/1/2018,1,Jan,Electricity,Commission,kWh,13692171.7
+1/1/2018,1,Jan,Electricity,Tenant,kWh,12342686
+1/1/2018,1,Jan,Water,Commission,Million Gallons,18.755352
+1/1/2018,1,Jan,Water,Tenant,Million Gallons,14.084092
+1/1/2018,2,Feb,Passengers,Campus,PAX,3882065
+1/1/2018,2,Feb,Gas,Commission,Therms,258660.9013
+1/1/2018,2,Feb,Gas,Tenant,Therms,64670.25051
+1/1/2018,2,Feb,Electricity,Commission,kWh,12457948.7
+1/1/2018,2,Feb,Electricity,Tenant,kWh,11151289
+1/1/2018,2,Feb,Water,Commission,Million Gallons,14.876224
+1/1/2018,2,Feb,Water,Tenant,Million Gallons,11.654588
+1/1/2018,3,Mar,Passengers,Campus,PAX,4674961
+1/1/2018,3,Mar,Gas,Commission,Therms,283151.1149
+1/1/2018,3,Mar,Gas,Tenant,Therms,62303.88141
+1/1/2018,3,Mar,Electricity,Commission,kWh,13761119.3
+1/1/2018,3,Mar,Electricity,Tenant,kWh,12256400
+1/1/2018,3,Mar,Water,Commission,Million Gallons,18.10534
+1/1/2018,3,Mar,Water,Tenant,Million Gallons,12.98902
+1/1/2018,4,Apr,Passengers,Campus,PAX,4714530
+1/1/2018,4,Apr,Gas,Commission,Therms,244819.523
+1/1/2018,4,Apr,Gas,Tenant,Therms,70702.52399
+1/1/2018,4,Apr,Electricity,Commission,kWh,13553743.5
+1/1/2018,4,Apr,Electricity,Tenant,kWh,11823488
+1/1/2018,4,Apr,Water,Commission,Million Gallons,18.989476
+1/1/2018,4,Apr,Water,Tenant,Million Gallons,13.43782
+1/1/2018,5,May,Passengers,Campus,PAX,5027789
+1/1/2018,5,May,Gas,Commission,Therms,235852.1329
+1/1/2018,5,May,Gas,Tenant,Therms,74858.70988
+1/1/2018,5,May,Electricity,Commission,kWh,13646157.3
+1/1/2018,5,May,Electricity,Tenant,kWh,12488011
+1/1/2018,5,May,Water,Commission,Million Gallons,20.288752
+1/1/2018,5,May,Water,Tenant,Million Gallons,14.280068
+1/1/2018,6,Jun,Passengers,Campus,PAX,5432268
+1/1/2018,6,Jun,Gas,Commission,Therms,224816.451
+1/1/2018,6,Jun,Gas,Tenant,Therms,47347.39821
+1/1/2018,6,Jun,Electricity,Commission,kWh,13658319.1
+1/1/2018,6,Jun,Electricity,Tenant,kWh,12030752
+1/1/2018,6,Jun,Water,Commission,Million Gallons,22.288156
+1/1/2018,6,Jun,Water,Tenant,Million Gallons,14.259124
+1/1/2018,7,Jul,Passengers,Campus,PAX,5700075
+1/1/2018,7,Jul,Gas,Commission,Therms,189632.12
+1/1/2018,7,Jul,Gas,Tenant,Therms,64127.76084
+1/1/2018,7,Jul,Electricity,Commission,kWh,14841736.2
+1/1/2018,7,Jul,Electricity,Tenant,kWh,12008055.4
+1/1/2018,7,Jul,Water,Commission,Million Gallons,24.400508
+1/1/2018,7,Jul,Water,Tenant,Million Gallons,14.819376
+1/1/2018,8,Aug,Passengers,Campus,PAX,5552579
+1/1/2018,8,Aug,Gas,Commission,Therms,197429.5787
+1/1/2018,8,Aug,Gas,Tenant,Therms,68882.66029
+1/1/2018,8,Aug,Electricity,Commission,kWh,14451264.8
+1/1/2018,8,Aug,Electricity,Tenant,kWh,12440369
+1/1/2018,8,Aug,Water,Commission,Million Gallons,22.670384
+1/1/2018,8,Aug,Water,Tenant,Million Gallons,14.827604
+1/1/2018,9,Sep,Passengers,Campus,PAX,4655093
+1/1/2018,9,Sep,Gas,Commission,Therms,212653.9716
+1/1/2018,9,Sep,Gas,Tenant,Therms,55717.26797
+1/1/2018,9,Sep,Electricity,Commission,kWh,13500345.9
+1/1/2018,9,Sep,Electricity,Tenant,kWh,12448558
+1/1/2018,9,Sep,Water,Commission,Million Gallons,20.638068
+1/1/2018,9,Sep,Water,Tenant,Million Gallons,13.952444
+1/1/2018,10,Oct,Passengers,Campus,PAX,4867897
+1/1/2018,10,Oct,Gas,Commission,Therms,216369.0704
+1/1/2018,10,Oct,Gas,Tenant,Therms,62536.93476
+1/1/2018,10,Oct,Electricity,Commission,kWh,14644975.6
+1/1/2018,10,Oct,Electricity,Tenant,kWh,12317048
+1/1/2018,10,Oct,Water,Commission,Million Gallons,23.63306
+1/1/2018,10,Oct,Water,Tenant,Million Gallons,16.337068
+1/1/2018,11,Nov,Passengers,Campus,PAX,4517529
+1/1/2018,11,Nov,Gas,Commission,Therms,252320.8721
+1/1/2018,11,Nov,Gas,Tenant,Therms,47470.80075
+1/1/2018,11,Nov,Electricity,Commission,kWh,13827617.1
+1/1/2018,11,Nov,Electricity,Tenant,kWh,11934021
+1/1/2018,11,Nov,Water,Commission,Million Gallons,18.616224
+1/1/2018,11,Nov,Water,Tenant,Million Gallons,13.478212
+1/1/2018,12,Dec,Passengers,Campus,PAX,4580901
+1/1/2018,12,Dec,Gas,Commission,Therms,257613.4961
+1/1/2018,12,Dec,Gas,Tenant,Therms,98195.77124
+1/1/2018,12,Dec,Electricity,Commission,kWh,13808231.2
+1/1/2018,12,Dec,Electricity,Tenant,kWh,12135132.3
+1/1/2018,12,Dec,Water,Commission,Million Gallons,18.234744
+1/1/2018,12,Dec,Water,Tenant,Million Gallons,14.620408
+1/1/2019,1,Jan,Passengers,Campus,PAX,4161927
+1/1/2019,1,Jan,Gas,Commission,Therms,292060.9192
+1/1/2019,1,Jan,Gas,Tenant,Therms,61549.21408
+1/1/2019,1,Jan,Electricity,Commission,kWh,13584273.1
+1/1/2019,1,Jan,Electricity,Tenant,kWh,12368820.6
+1/1/2019,1,Jan,Water,Commission,Million Gallons,19.359736
+1/1/2019,1,Jan,Water,Tenant,Million Gallons,14.520176
+1/1/2019,2,Feb,Passengers,Campus,PAX,3755973
+1/1/2019,2,Feb,Gas,Commission,Therms,296742.9963
+1/1/2019,2,Feb,Gas,Tenant,Therms,65048.09183
+1/1/2019,2,Feb,Electricity,Commission,kWh,12106357.3
+1/1/2019,2,Feb,Electricity,Tenant,kWh,11174702.4
+1/1/2019,2,Feb,Water,Commission,Million Gallons,16.864408
+1/1/2019,2,Feb,Water,Tenant,Million Gallons,13.820048
+1/1/2019,3,Mar,Passengers,Campus,PAX,4602873
+1/1/2019,3,Mar,Gas,Commission,Therms,279471.1839
+1/1/2019,3,Mar,Gas,Tenant,Therms,70355.76399
+1/1/2019,3,Mar,Electricity,Commission,kWh,13436346.8
+1/1/2019,3,Mar,Electricity,Tenant,kWh,12448069.1
+1/1/2019,3,Mar,Water,Commission,Million Gallons,18.048492
+1/1/2019,3,Mar,Water,Tenant,Million Gallons,14.520924
+1/1/2019,4,Apr,Passengers,Campus,PAX,4697790
+1/1/2019,4,Apr,Gas,Commission,Therms,241930.2382
+1/1/2019,4,Apr,Gas,Tenant,Therms,50665.30019
+1/1/2019,4,Apr,Electricity,Commission,kWh,13164181
+1/1/2019,4,Apr,Electricity,Tenant,kWh,12130339.9
+1/1/2019,4,Apr,Water,Commission,Million Gallons,19.950656
+1/1/2019,4,Apr,Water,Tenant,Million Gallons,15.92492
+1/1/2019,5,May,Passengers,Campus,PAX,5013085
+1/1/2019,5,May,Gas,Commission,Therms,275100.4009
+1/1/2019,5,May,Gas,Tenant,Therms,37178.226
+1/1/2019,5,May,Electricity,Commission,kWh,13694826.5
+1/1/2019,5,May,Electricity,Tenant,kWh,12440095
+1/1/2019,5,May,Water,Commission,Million Gallons,20.34186
+1/1/2019,5,May,Water,Tenant,Million Gallons,14.884452
+1/1/2019,6,Jun,Passengers,Campus,PAX,5471861
+1/1/2019,6,Jun,Gas,Commission,Therms,171297.9568
+1/1/2019,6,Jun,Gas,Tenant,Therms,65181.47186
+1/1/2019,6,Jun,Electricity,Commission,kWh,14486051.7
+1/1/2019,6,Jun,Electricity,Tenant,kWh,11925845.5
+1/1/2019,6,Jun,Water,Commission,Million Gallons,24.013044
+1/1/2019,6,Jun,Water,Tenant,Million Gallons,14.609936
+1/1/2019,7,Jul,Passengers,Campus,PAX,5620160
+1/1/2019,7,Jul,Gas,Commission,Therms,180376.7288
+1/1/2019,7,Jul,Gas,Tenant,Therms,58484.77628
+1/1/2019,7,Jul,Electricity,Commission,kWh,14688195.1
+1/1/2019,7,Jul,Electricity,Tenant,kWh,12581588.4
+1/1/2019,7,Jul,Water,Commission,Million Gallons,25.39086
+1/1/2019,7,Jul,Water,Tenant,Million Gallons,17.347616
+1/1/2019,8,Aug,Passengers,Campus,PAX,5750758
+1/1/2019,8,Aug,Gas,Commission,Therms,5976.435975
+1/1/2019,8,Aug,Gas,Tenant,Therms,6160.002394
+1/1/2019,8,Aug,Electricity,Commission,kWh,15639474.5
+1/1/2019,8,Aug,Electricity,Tenant,kWh,12512092.6
+1/1/2019,8,Aug,Water,Commission,Million Gallons,27.670764
+1/1/2019,8,Aug,Water,Tenant,Million Gallons,15.12082
